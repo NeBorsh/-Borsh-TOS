@@ -9,6 +9,8 @@
 > `1.4)` `the service / order is considered initiated when the first payment ( prepayment ) is executed`
 >
 > `1.5)` `I have the right to refuse to execute the order for personal reasons`
+>
+> `1.6)` `In case of cancellation of the order from one of the parties, when the order is ready for 35%, the customer will be obliged to pay me money for the work done (the amount is negotiated personally with the customer)`
 
 ---
 
@@ -76,6 +78,8 @@
 > `1.4)` `услуга/заказ считается инициированной при выполнении первого платежа (предоплаты)`
 >
 > `1.5)` `Я имею право отказаться от выполнения заказа по личным причинам`
+>
+> `1.6)` `В случае отмены заказа с одной из сторон, при готовности заказа на 35 %, заказчик будет обязан выплатить мне деньги за сделаную работу ( сумма оговаривается лично с заказчиком )`
 
 ---
 
